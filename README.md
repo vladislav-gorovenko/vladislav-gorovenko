@@ -99,7 +99,7 @@
 
 <br/>
 <p align="left">
-<a href="https://github.com/vladislav-gorovenko/github-readme-stats"><img alt="Vlad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vladislav-gorovenko&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<img alt="Vlad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vladislav-gorovenko&show_icons=true&count_private=true&theme=algolia" height="192px"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vladislav-gorovenko&show_icons=true&locale=en&layout=compact&theme=algolia" alt="aastha12" height="192px"/>
 </p>
 
