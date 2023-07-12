@@ -9,7 +9,6 @@
 
 - 👋 Hi, my name is Vladislav Gorovenko.
 - 💼 I'm a Front End Web Developer, working mostly with React / Next.js. 
-- 💬 Talk to me about React / Next.js.
 - ❤️ I love Tailwind CSS. 
 - 💻 I’m looking to collaborate on interesting frontend apps together
 
